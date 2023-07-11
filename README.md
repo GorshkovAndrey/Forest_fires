@@ -3,7 +3,7 @@
 ## Решение задачи выполнено с помощью классификаторов CatBoost, LGBM, XGB c использованием Optuna для оптимизации гиперпарметров.
 
 ## Полученные метрики:
-![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/4fae5564-af28-40dc-9036-82024a760a20)
+![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/fdb74e19-9d29-451c-983d-cb64a59967ca)
 
 ## График ROC-AUC:
 ![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/9c5fe2ea-7585-4020-9fcd-584f14f68269)
