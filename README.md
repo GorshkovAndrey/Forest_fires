@@ -6,7 +6,7 @@
 ![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/ac54695c-2df7-47f3-93f7-25aae4b1b986)
 
 ## График ROC-AUC:
-![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/f9e0f05c-ae85-410a-8a17-07e1e48530ba)
+![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/c21e6f96-4d99-4460-9fef-9805b0071c3e)
 
 ## Матрица ошибок (Confusion Matrix)
 ![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/fddf2103-976d-4480-88f0-5473e7c32811)
