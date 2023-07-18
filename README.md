@@ -3,10 +3,10 @@
 ## Решение задачи выполнено с помощью классификаторов CatBoost, LGBM, XGB c балансировкой классов для train выборки и использованием Optuna для оптимизации гиперпарметров.
 
 ## Полученные метрики:
-![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/fdb74e19-9d29-451c-983d-cb64a59967ca)
+![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/bf057807-d2c3-47eb-9428-d3bd6cfe96e8)
 
 ## График ROC-AUC:
-![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/9c5fe2ea-7585-4020-9fcd-584f14f68269)
+![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/23fef504-46bd-4cdb-a949-53730bf4ff8d)
 
 ## Матрица ошибок (Confusion Matrix)
-![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/c581215a-2e32-459f-9f12-0d8f1636553e)
+![image](https://github.com/GorshkovAndrey/Forest_fires/assets/130226207/fa1448a4-f837-423f-9881-49b4b5bc66a7)
